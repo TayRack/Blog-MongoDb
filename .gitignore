@@ -1,0 +1,10 @@
+/*
+!public/
+!views/
+!routes/
+!database.js
+!app.js
+!package-lock.json
+!package.json
+!README.md
+!.gitignore

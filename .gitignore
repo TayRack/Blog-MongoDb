@@ -2,7 +2,7 @@
 !public/
 !views/
 !routes/
-!database.js
+!data/
 !app.js
 !package-lock.json
 !package.json
